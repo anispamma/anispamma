@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anispamma
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning anything about cypto coin and token
-- 💞️ I’m looking to collaborate new or popular project
+- 👀 I’m interested in chart tools
+- 🌱 I’m currently learning Chart Pattern, Elliot Wave, Fibonacci and Candlestick
+- 💞️ I’m looking to collaborate new or popular project about stock market tools
 - 📫 How to reach me ... twitter @anispamma
 
 <!---
